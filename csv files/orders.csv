@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,total_amount,order_status,payment_method,shipping_city
+1,1,2024-01-12,79999.00,Delivered,UPI,Bengaluru
+2,2,2024-01-18,2499.00,Delivered,"Credit Card",Chennai
+3,3,2024-02-03,59999.00,Delivered,"Debit Card",Ahmedabad
+4,4,2024-02-15,4999.00,Shipped,UPI,Hyderabad
+5,5,2024-03-01,2899.00,Delivered,"Net Banking",Mumbai
+6,6,2024-03-12,699.00,Delivered,"Cash on Delivery",Coimbatore
+7,7,2024-04-05,24999.00,Delivered,"Credit Card",Delhi
+8,8,2024-04-18,1499.00,Processing,UPI,Pune
+9,9,2024-05-08,499.00,Delivered,"Debit Card",Kolkata
+10,10,2024-05-21,3499.00,Delivered,UPI,Jaipur
+11,11,2024-06-02,15999.00,Delivered,"Credit Card",Bhopal
+12,12,2024-06-18,320.00,Delivered,"Cash on Delivery",Lucknow
+13,13,2024-07-03,899.00,Shipped,UPI,Kochi
+14,14,2024-07-20,1799.00,Delivered,"Debit Card",Kolkata
+15,15,2024-08-05,6999.00,Delivered,"Net Banking",Noida
+16,16,2024-08-18,550.00,Processing,UPI,Patna
+17,17,2024-09-01,64999.00,Delivered,"Credit Card",Mangaluru
+18,18,2024-09-15,4999.00,Delivered,"Debit Card",Indore
+19,19,2024-10-03,220.00,Delivered,"Cash on Delivery",Bhubaneswar
+20,20,2024-10-20,3999.00,Shipped,UPI,Chandigarh
+21,21,2024-10-25,6999.00,Delivered,"Credit Card",Nagpur
+22,22,2024-10-28,499.00,Delivered,UPI,Surat
+23,23,2024-11-02,1799.00,Processing,"Debit Card",Kanpur
+24,24,2024-11-05,12999.00,Delivered,"Net Banking",Guwahati
+25,25,2024-11-08,799.00,Delivered,"Cash on Delivery",Dehradun
+26,26,2024-11-12,2499.00,Delivered,UPI,Siliguri
+27,27,2024-11-16,35999.00,Shipped,"Credit Card",Thiruvananthapuram
+28,28,2024-11-20,699.00,Delivered,UPI,Amritsar
+29,29,2024-11-23,5499.00,Delivered,"Debit Card",Mysuru
+30,30,2024-11-28,29999.00,Processing,"Credit Card",Visakhapatnam
+31,31,2024-12-02,3999.00,Delivered,UPI,Vadodara
+32,32,2024-12-05,899.00,Delivered,"Cash on Delivery",Cuttack
+33,33,2024-12-08,320.00,Delivered,UPI,Ludhiana
+34,34,2024-12-10,1599.00,Delivered,"Credit Card",Faridabad
+35,35,2024-12-12,64999.00,Delivered,"Net Banking",Ranchi
+36,36,2024-12-15,24999.00,Shipped,"Debit Card",Durgapur
+37,37,2024-12-18,420.00,Delivered,UPI,Warangal
+38,38,2024-12-20,4999.00,Delivered,"Credit Card",Nashik
+39,39,2024-12-22,550.00,Processing,UPI,Panaji
+40,40,2024-12-24,6999.00,Delivered,"Debit Card",Agra
+41,41,2025-01-02,79999.00,Delivered,"Credit Card",Udaipur
+42,42,2025-01-05,2499.00,Delivered,UPI,Jabalpur
+43,43,2025-01-08,3499.00,Delivered,"Debit Card",Madurai
+44,44,2025-01-10,499.00,Delivered,"Cash on Delivery",Salem
+45,45,2025-01-12,18999.00,Delivered,"Credit Card",Ajmer
+46,46,2025-01-15,699.00,Shipped,UPI,Hubballi
+47,47,2025-01-18,2799.00,Delivered,"Net Banking",Shimla
+48,48,2025-01-20,599.00,Delivered,"Debit Card",Jamshedpur
+49,49,2025-01-23,17999.00,Delivered,"Credit Card",Meerut
+50,50,2025-01-25,899.00,Delivered,UPI,Vijayawada
+51,1,2025-02-02,4999.00,Delivered,"Credit Card",Bengaluru
+52,3,2025-02-05,699.00,Delivered,UPI,Ahmedabad
+53,5,2025-02-08,24999.00,Delivered,"Debit Card",Mumbai
+54,7,2025-02-12,6999.00,Delivered,"Credit Card",Delhi
+55,9,2025-02-15,3499.00,Shipped,UPI,Kolkata
+56,11,2025-02-18,15999.00,Delivered,"Net Banking",Bhopal
+57,13,2025-02-20,320.00,Delivered,"Cash on Delivery",Kochi
+58,15,2025-02-22,999.00,Delivered,UPI,Noida
+59,17,2025-02-25,5499.00,Delivered,"Credit Card",Mangaluru
+60,19,2025-02-28,220.00,Delivered,"Debit Card",Bhubaneswar
+61,22,2025-03-01,79999.00,Delivered,"Credit Card",Surat
+62,24,2025-03-03,3999.00,Delivered,UPI,Guwahati
+63,26,2025-03-05,599.00,Delivered,"Debit Card",Siliguri
+64,28,2025-03-07,4999.00,Delivered,UPI,Amritsar
+65,30,2025-03-09,24999.00,Shipped,"Credit Card",Visakhapatnam
+66,32,2025-03-11,799.00,Delivered,"Cash on Delivery",Cuttack
+67,34,2025-03-13,12999.00,Delivered,"Net Banking",Faridabad
+68,36,2025-03-15,29999.00,Delivered,"Credit Card",Durgapur
+69,38,2025-03-17,420.00,Delivered,UPI,Nashik
+70,40,2025-03-19,64999.00,Delivered,"Debit Card",Agra
+71,42,2025-03-21,17999.00,Delivered,"Credit Card",Jabalpur
+72,44,2025-03-23,3499.00,Delivered,UPI,Salem
+73,46,2025-03-25,899.00,Processing,"Debit Card",Hubballi
+74,48,2025-03-27,2499.00,Delivered,UPI,Jamshedpur
+75,50,2025-03-29,6999.00,Delivered,"Credit Card",Vijayawada
+76,2,2025-04-02,499.00,Delivered,"Cash on Delivery",Chennai
+77,4,2025-04-05,550.00,Delivered,UPI,Hyderabad
+78,6,2025-04-07,15999.00,Delivered,"Credit Card",Coimbatore
+79,8,2025-04-09,899.00,Delivered,"Debit Card",Pune
+80,10,2025-04-11,320.00,Delivered,UPI,Jaipur
+81,12,2025-04-13,699.00,Delivered,"Credit Card",Lucknow
+82,14,2025-04-15,999.00,Delivered,UPI,Kolkata
+83,16,2025-04-17,2799.00,Delivered,"Debit Card",Patna
+84,18,2025-04-19,6999.00,Delivered,"Credit Card",Indore
+85,20,2025-04-21,4999.00,Shipped,UPI,Chandigarh
+86,21,2025-04-23,24999.00,Delivered,"Net Banking",Nagpur
+87,23,2025-04-25,35999.00,Delivered,"Credit Card",Kanpur
+88,25,2025-04-27,5499.00,Delivered,"Debit Card",Dehradun
+89,27,2025-04-29,220.00,Delivered,UPI,Thiruvananthapuram
+90,29,2025-05-01,799.00,Delivered,"Cash on Delivery",Mysuru
+91,31,2025-05-03,12999.00,Delivered,"Credit Card",Vadodara
+92,33,2025-05-05,699.00,Delivered,UPI,Ludhiana
+93,35,2025-05-07,18999.00,Delivered,"Debit Card",Ranchi
+94,37,2025-05-09,2499.00,Delivered,"Credit Card",Warangal
+95,39,2025-05-11,499.00,Delivered,UPI,Panaji
+96,41,2025-05-13,899.00,Delivered,"Cash on Delivery",Udaipur
+97,43,2025-05-15,64999.00,Delivered,"Credit Card",Madurai
+98,45,2025-05-17,3499.00,Delivered,"Debit Card",Ajmer
+99,47,2025-05-19,550.00,Delivered,UPI,Shimla
+100,49,2025-05-21,15999.00,Delivered,"Credit Card",Meerut

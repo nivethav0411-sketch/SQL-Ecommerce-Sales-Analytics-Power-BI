@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone,gender,city,state,country,registration_date
+1,Rahul,Sharma,rahul.sharma@email.com,9876500001,Male,Bengaluru,Karnataka,India,2024-01-10
+2,Priya,Nair,priya.nair@email.com,9876500002,Female,Chennai,"Tamil Nadu",India,2024-01-15
+3,Arjun,Patel,arjun.patel@email.com,9876500003,Male,Ahmedabad,Gujarat,India,2024-02-05
+4,Sneha,Reddy,sneha.reddy@email.com,9876500004,Female,Hyderabad,Telangana,India,2024-02-18
+5,Karan,Mehta,karan.mehta@email.com,9876500005,Male,Mumbai,Maharashtra,India,2024-03-02
+6,Ananya,Iyer,ananya.iyer@email.com,9876500006,Female,Coimbatore,"Tamil Nadu",India,2024-03-15
+7,Vikram,Singh,vikram.singh@email.com,9876500007,Male,Delhi,Delhi,India,2024-04-01
+8,Pooja,Joshi,pooja.joshi@email.com,9876500008,Female,Pune,Maharashtra,India,2024-04-10
+9,Rohan,Das,rohan.das@email.com,9876500009,Male,Kolkata,"West Bengal",India,2024-04-22
+10,Meera,Kapoor,meera.kapoor@email.com,9876500010,Female,Jaipur,Rajasthan,India,2024-05-03
+11,Aisha,Khan,aisha.khan@email.com,9876500011,Female,Bhopal,"Madhya Pradesh",India,2024-05-12
+12,Manoj,Verma,manoj.verma@email.com,9876500012,Male,Lucknow,"Uttar Pradesh",India,2024-05-18
+13,Divya,Menon,divya.menon@email.com,9876500013,Female,Kochi,Kerala,India,2024-06-01
+14,Siddharth,Roy,siddharth.roy@email.com,9876500014,Male,Kolkata,"West Bengal",India,2024-06-08
+15,Neha,Gupta,neha.gupta@email.com,9876500015,Female,Noida,"Uttar Pradesh",India,2024-06-15
+16,Abhishek,Yadav,abhishek.yadav@email.com,9876500016,Male,Patna,Bihar,India,2024-06-21
+17,Kavya,Shetty,kavya.shetty@email.com,9876500017,Female,Mangaluru,Karnataka,India,2024-07-03
+18,Harsh,Jain,harsh.jain@email.com,9876500018,Male,Indore,"Madhya Pradesh",India,2024-07-10
+19,Nisha,Bose,nisha.bose@email.com,9876500019,Female,Bhubaneswar,Odisha,India,2024-07-18
+20,Aman,Chopra,aman.chopra@email.com,9876500020,Male,Chandigarh,Chandigarh,India,2024-07-25
+21,Aditya,Kulkarni,aditya.kulkarni@email.com,9876500021,Male,Nagpur,Maharashtra,India,2024-08-01
+22,Riya,Shah,riya.shah@email.com,9876500022,Female,Surat,Gujarat,India,2024-08-05
+23,Nitin,Mishra,nitin.mishra@email.com,9876500023,Male,Kanpur,"Uttar Pradesh",India,2024-08-09
+24,Shreya,Paul,shreya.paul@email.com,9876500024,Female,Guwahati,Assam,India,2024-08-12
+25,Akash,Saxena,akash.saxena@email.com,9876500025,Male,Dehradun,Uttarakhand,India,2024-08-18
+26,Ishita,Ghosh,ishita.ghosh@email.com,9876500026,Female,Siliguri,"West Bengal",India,2024-08-22
+27,Rakesh,Pillai,rakesh.pillai@email.com,9876500027,Male,Thiruvananthapuram,Kerala,India,2024-09-01
+28,Simran,Kaur,simran.kaur@email.com,9876500028,Female,Amritsar,Punjab,India,2024-09-05
+29,Varun,Bhat,varun.bhat@email.com,9876500029,Male,Mysuru,Karnataka,India,2024-09-10
+30,Deepika,Rao,deepika.rao@email.com,9876500030,Female,Visakhapatnam,"Andhra Pradesh",India,2024-09-15
+31,Arnav,Desai,arnav.desai@email.com,9876500031,Male,Vadodara,Gujarat,India,2024-09-20
+32,Pallavi,Nanda,pallavi.nanda@email.com,9876500032,Female,Cuttack,Odisha,India,2024-09-25
+33,Yash,Malhotra,yash.malhotra@email.com,9876500033,Male,Ludhiana,Punjab,India,2024-10-01
+34,Anjali,Bansal,anjali.bansal@email.com,9876500034,Female,Faridabad,Haryana,India,2024-10-05
+35,Rohit,Kumar,rohit.kumar@email.com,9876500035,Male,Ranchi,Jharkhand,India,2024-10-10
+36,Sanya,Chatterjee,sanya.chatterjee@email.com,9876500036,Female,Durgapur,"West Bengal",India,2024-10-15
+37,Naveen,Reddy,naveen.reddy@email.com,9876500037,Male,Warangal,Telangana,India,2024-10-18
+38,Komal,Patil,komal.patil@email.com,9876500038,Female,Nashik,Maharashtra,India,2024-10-22
+39,Pranav,Naik,pranav.naik@email.com,9876500039,Male,Panaji,Goa,India,2024-10-25
+40,Bhavna,Agarwal,bhavna.agarwal@email.com,9876500040,Female,Agra,"Uttar Pradesh",India,2024-10-30
+41,Tarun,Joshi,tarun.joshi@email.com,9876500041,Male,Udaipur,Rajasthan,India,2024-11-03
+42,Aarti,Verma,aarti.verma@email.com,9876500042,Female,Jabalpur,"Madhya Pradesh",India,2024-11-07
+43,Kishore,Raman,kishore.raman@email.com,9876500043,Male,Madurai,"Tamil Nadu",India,2024-11-12
+44,Lavanya,Krishnan,lavanya.krishnan@email.com,9876500044,Female,Salem,"Tamil Nadu",India,2024-11-18
+45,Mohit,Soni,mohit.soni@email.com,9876500045,Male,Ajmer,Rajasthan,India,2024-11-22
+46,Nandini,Kulkarni,nandini.kulkarni@email.com,9876500046,Female,Hubballi,Karnataka,India,2024-11-25
+47,Sahil,Mehra,sahil.mehra@email.com,9876500047,Male,Shimla,"Himachal Pradesh",India,2024-12-01
+48,Priti,Das,priti.das@email.com,9876500048,Female,Jamshedpur,Jharkhand,India,2024-12-06
+49,Vivek,Chauhan,vivek.chauhan@email.com,9876500049,Male,Meerut,"Uttar Pradesh",India,2024-12-10
+50,Ritika,Mohan,ritika.mohan@email.com,9876500050,Female,Vijayawada,"Andhra Pradesh",India,2024-12-15

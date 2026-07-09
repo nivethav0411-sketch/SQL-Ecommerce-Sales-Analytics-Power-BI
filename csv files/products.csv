@@ -1,0 +1,101 @@
+product_id,product_name,category_id,price,stock_quantity,brand
+1,"iPhone 16",1,79999.00,25,Apple
+2,"Samsung Galaxy S24",1,74999.00,30,Samsung
+3,"OnePlus 13",1,59999.00,20,OnePlus
+4,"Sony WH-1000XM5 Headphones",1,29999.00,15,Sony
+5,"Boat Smartwatch",1,4999.00,50,Boat
+6,"Levis Jeans",2,2499.00,40,Levis
+7,"Puma T-Shirt",2,1499.00,60,Puma
+8,"Zara Dress",2,3999.00,20,Zara
+9,"Allen Solly Shirt",2,1999.00,35,"Allen Solly"
+10,"Nike Hoodie",2,3499.00,25,Nike
+11,"Prestige Pressure Cooker",3,2899.00,30,Prestige
+12,"Philips Mixer Grinder",3,4999.00,18,Philips
+13,"Milton Water Bottle",3,599.00,100,Milton
+14,"Pigeon Induction Stove",3,2799.00,25,Pigeon
+15,"Butterfly Cookware Set",3,4599.00,15,Butterfly
+16,"Atomic Habits",4,599.00,50,Penguin
+17,"Rich Dad Poor Dad",4,499.00,40,"Plata Publishing"
+18,"Clean Code",4,899.00,30,Pearson
+19,"Deep Work",4,699.00,20,"Grand Central"
+20,"The Psychology of Money",4,550.00,45,Jaico
+21,"Lakme Face Wash",5,299.00,80,Lakme
+22,"Mamaearth Shampoo",5,449.00,60,Mamaearth
+23,"Maybelline Lipstick",5,599.00,70,Maybelline
+24,"Nivea Body Lotion",5,399.00,90,Nivea
+25,"Minimalist Vitamin C Serum",5,699.00,50,Minimalist
+26,"Cosco Football",6,999.00,35,Cosco
+27,"Yonex Badminton Racquet",6,2499.00,20,Yonex
+28,"Adidas Cricket Bat",6,3499.00,18,Adidas
+29,"Nike Football Shoes",6,4999.00,22,Nike
+30,"Decathlon Yoga Mat",6,899.00,45,Decathlon
+31,"LEGO Classic Set",7,2999.00,20,LEGO
+32,"Barbie Doll",7,1499.00,30,Mattel
+33,"Remote Control Car",7,1799.00,25,"Hot Wheels"
+34,"Wooden Puzzle",7,499.00,50,Funskool
+35,"Teddy Bear",7,899.00,40,Hamleys
+36,"Aashirvaad Atta 5kg",8,320.00,120,Aashirvaad
+37,"Tata Salt 1kg",8,30.00,200,Tata
+38,"Fortune Sunflower Oil 1L",8,180.00,90,Fortune
+39,"Amul Butter 500g",8,275.00,75,Amul
+40,"Bru Instant Coffee",8,420.00,65,Bru
+41,"Godrej Wardrobe",9,18999.00,10,Godrej
+42,"Nilkamal Office Chair",9,6499.00,20,Nilkamal
+43,"IKEA Study Table",9,7999.00,15,IKEA
+44,"Wooden Bookshelf",9,5999.00,12,"Home Centre"
+45,"Sofa Set",9,35999.00,8,"Urban Ladder"
+46,"Nike Air Max Shoes",10,6999.00,25,Nike
+47,"Adidas Running Shoes",10,6499.00,20,Adidas
+48,"Puma Sneakers",10,4999.00,30,Puma
+49,"Bata Formal Shoes",10,2999.00,40,Bata
+50,"Woodland Boots",10,5499.00,18,Woodland
+51,"Dell Inspiron Laptop",1,64999.00,15,Dell
+52,"HP Pavilion Laptop",1,62999.00,12,HP
+53,"Canon EOS Camera",1,55999.00,8,Canon
+54,"Apple AirPods Pro",1,24999.00,25,Apple
+55,"Samsung Smart TV 55"",1,68999.00,10,Samsung
+56,"US Polo T-Shirt",2,1799.00,50,"US Polo"
+57,"Van Heusen Blazer",2,5499.00,18,"Van Heusen"
+58,"H&M Jacket",2,4299.00,22,H&M
+59,"Louis Philippe Trousers",2,2799.00,30,"Louis Philippe"
+60,"Roadster Jeans",2,1899.00,35,Roadster
+61,"Borosil Glass Set",3,899.00,50,Borosil
+62,"Kent Water Purifier",3,15999.00,10,Kent
+63,"LG Microwave Oven",3,12999.00,15,LG
+64,"Prestige Gas Stove",3,4999.00,25,Prestige
+65,"Cello Lunch Box",3,699.00,60,Cello
+66,Ikigai,4,499.00,40,Penguin
+67,"Think Like a Monk",4,599.00,35,HarperCollins
+68,"The Alchemist",4,399.00,60,HarperOne
+69,"The Power of Habit",4,699.00,30,"Random House"
+70,"Zero to One",4,550.00,25,Crown
+71,"Dove Shampoo",5,349.00,80,Dove
+72,"Loreal Face Cream",5,799.00,45,Loreal
+73,"Biotique Face Pack",5,299.00,70,Biotique
+74,"Himalaya Face Wash",5,220.00,100,Himalaya
+75,"Mamaearth Onion Oil",5,499.00,65,Mamaearth
+76,"Vector X Volleyball",6,799.00,35,"Vector X"
+77,"Nivia Basketball",6,999.00,28,Nivia
+78,"SG Cricket Ball",6,450.00,60,SG
+79,"Yonex Shuttlecock",6,850.00,40,Yonex
+80,"Cosco Skipping Rope",6,299.00,75,Cosco
+81,"Hot Wheels Car Set",7,899.00,45,"Hot Wheels"
+82,"Nerf Blaster",7,1599.00,20,Nerf
+83,"UNO Cards",7,199.00,100,Mattel
+84,"Building Blocks Set",7,1299.00,35,Funskool
+85,"Kids Learning Tablet",7,2499.00,18,PlayShifu
+86,"Tata Tea Gold 1kg",8,650.00,50,Tata
+87,"Maggi Noodles Pack",8,180.00,90,Nestle
+88,"Parle-G Biscuits",8,120.00,150,Parle
+89,"Surf Excel Detergent",8,450.00,70,HUL
+90,"Ariel Washing Powder",8,520.00,60,P&G
+91,"Godrej Bed",9,24999.00,8,Godrej
+92,"Nilkamal Dining Table",9,17999.00,10,Nilkamal
+93,"Home Centre Coffee Table",9,6999.00,18,"Home Centre"
+94,"Urban Ladder Recliner",9,29999.00,6,"Urban Ladder"
+95,"Wooden TV Unit",9,12999.00,12,IKEA
+96,"Skechers Running Shoes",10,7999.00,22,Skechers
+97,"Reebok Training Shoes",10,5499.00,30,Reebok
+98,"Crocs Classic Clogs",10,3999.00,35,Crocs
+99,"Campus Casual Shoes",10,2499.00,50,Campus
+100,"Red Tape Sneakers",10,3299.00,40,"Red Tape"
